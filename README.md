@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premshaw04" alt="premshaw04" /></a> </p>
 
-- 🔭 I’m currently working on [SIH 2025 project](https://krishigrow-final.netlify.app/)
+- 🔭 I’m currently done my [SIH 2025 project](https://krishigrow-final.netlify.app/)
 
 - 🌱 I’m currently learning **data science**
 
